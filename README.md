@@ -1,2 +1,1 @@
-# Visualization_Project
-AndreaQdt/Visualization_Project- 
+Some Data Wrangling I did at Spiced Academy using Python's imageio library 
